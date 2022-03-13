@@ -1,0 +1,29 @@
+<svg width="142" height="222" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M208.268 84.37c8.149 27.667-10.615 54.619-28.733 77.061-16.747 20.745-38.484 38.387-65.133 39.209-26.32.811-48.59-15.713-66.35-35.156-18.47-20.221-35.363-44.54-31.164-71.602 4.306-27.757 26.208-49.452 51.756-61.126 23.653-10.808 49.672-5.385 74.064 3.632 26.724 9.879 57.511 20.65 65.56 47.982Z" fill="#82AEB4" fill-opacity=".4"/>
+  <g opacity=".5" fill="#fff">
+    <circle cx="140.5" cy="89.5" r="2.5" transform="rotate(90 140.5 89.5)"/>
+    <circle cx="128.5" cy="89.5" r="2.5" transform="rotate(90 128.5 89.5)"/>
+    <circle cx="116.5" cy="89.5" r="2.5" transform="rotate(90 116.5 89.5)"/>
+    <circle cx="104.5" cy="89.5" r="2.5" transform="rotate(90 104.5 89.5)"/>
+    <circle cx="92.5" cy="89.5" r="2.5" transform="rotate(90 92.5 89.5)"/>
+    <circle cx="80.5" cy="89.5" r="2.5" transform="rotate(90 80.5 89.5)"/>
+    <circle cx="140.5" cy="123.5" r="2.5" transform="rotate(90 140.5 123.5)"/>
+    <circle cx="128.5" cy="123.5" r="2.5" transform="rotate(90 128.5 123.5)"/>
+    <circle cx="116.5" cy="123.5" r="2.5" transform="rotate(90 116.5 123.5)"/>
+    <circle cx="104.5" cy="123.5" r="2.5" transform="rotate(90 104.5 123.5)"/>
+    <circle cx="92.5" cy="123.5" r="2.5" transform="rotate(90 92.5 123.5)"/>
+    <circle cx="80.5" cy="123.5" r="2.5" transform="rotate(90 80.5 123.5)"/>
+    <circle cx="140.5" cy="106.5" r="2.5" transform="rotate(90 140.5 106.5)"/>
+    <circle cx="128.5" cy="106.5" r="2.5" transform="rotate(90 128.5 106.5)"/>
+    <circle cx="116.5" cy="106.5" r="2.5" transform="rotate(90 116.5 106.5)"/>
+    <circle cx="104.5" cy="106.5" r="2.5" transform="rotate(90 104.5 106.5)"/>
+    <circle cx="92.5" cy="106.5" r="2.5" transform="rotate(90 92.5 106.5)"/>
+    <circle cx="80.5" cy="106.5" r="2.5" transform="rotate(90 80.5 106.5)"/>
+    <circle cx="140.5" cy="140.5" r="2.5" transform="rotate(90 140.5 140.5)"/>
+    <circle cx="128.5" cy="140.5" r="2.5" transform="rotate(90 128.5 140.5)"/>
+    <circle cx="116.5" cy="140.5" r="2.5" transform="rotate(90 116.5 140.5)"/>
+    <circle cx="104.5" cy="140.5" r="2.5" transform="rotate(90 104.5 140.5)"/>
+    <circle cx="92.5" cy="140.5" r="2.5" transform="rotate(90 92.5 140.5)"/>
+    <circle cx="80.5" cy="140.5" r="2.5" transform="rotate(90 80.5 140.5)"/>
+  </g>
+</svg>
